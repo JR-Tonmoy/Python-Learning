@@ -17,3 +17,6 @@ print("Tonmoy Sarker live in Dhaka,Bangladesh")
 print("He is a student of CSE department")
 print("Tonmoy Sarkeris 24 years old")
 print("Tonmoy Sarker has current CGPA is 3.75")"""
+
+print("Tonmoy Sarker",end=" ")  #সাধারণত print() করার পর Python স্বয়ংক্রিয়ভাবে নতুন লাইনে চলে যায়। কিন্তু end ব্যবহার করলে এই নিয়ম পরিবর্তন করা যায়।
+print("Phone:01749240754")
